@@ -1,0 +1,7 @@
+.vs
+x64
+*.dll
+*.pdb
+*.vcxproj.user
+*.bmp
+*.csv
